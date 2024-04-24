@@ -69,6 +69,11 @@ def find_most_similar_content(question, data):
     return processed_contents[most_similar_index], data['content'][most_similar_index] #may need to comment this out
     #return  data['content'][most_similar_index] chatgpt might understand this better
 
+def findTopic(question):
+    file_path = '../eldenRingWikiText.csv'
+    data = read_csv(file_path)
+
+    return find_most_similar_content(question, data)[1]
 
 def main():
     # file path for the CSV

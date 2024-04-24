@@ -66,32 +66,34 @@ def find_most_similar_content(question, data):
     # get the index of the most similar content
     most_similar_index = similarities.argmax()
     
-    return processed_contents[most_similar_index], data['content'][most_similar_index] #may need to comment this out
-    #return  data['content'][most_similar_index] chatgpt might understand this better
+    #return processed_contents[most_similar_index], data['content'][most_similar_index] #may need to comment this out
+    return  data['content'][most_similar_index] #chatgpt might understand this better
 
 def findTopic(question):
     file_path = '../eldenRingWikiText.csv'
     data = read_csv(file_path)
 
-    return find_most_similar_content(question, data)[1]
+    #return find_most_similar_content(question, data)[1]
+    return find_most_similar_content(question, data)
+
 
 def main():
     # file path for the CSV
     file_path = '../eldenRingWikiText.csv'
     # example question to find similar content
-    question = "What are the strategies for defeating Margit in Elden Ring?"
+    question = "what are all the weapon ctypes"
 
     # read and process the CSV data
     data = read_csv(file_path)
     
     # find the most similar content
-    most_similar_content = find_most_similar_content(question, data)[0] # comment out
-    raw_most_similar_content = find_most_similar_content(question, data)[1] #comment out
-    #raw_most_similar_content = find_most_similar_content(question, data) # I would use this
+    #most_similar_content = find_most_similar_content(question, data)[0] # comment out
+    #raw_most_similar_content = find_most_similar_content(question, data)[1] #comment out
+    raw_most_similar_content = find_most_similar_content(question, data) # I would use this
 
 
-    print(most_similar_content) #comment this out
-    print("========================================================")
+    #print(most_similar_content) #comment this out
+    #print("========================================================")
     print(raw_most_similar_content) #I would have chatgpt look at this instead. it might not correctly understand the preprocessed version
 
 

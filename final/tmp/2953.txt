@@ -1,0 +1,8 @@
+CONTEXT
+\nSmithing-Stone Miner's Bell Bearing (5) does not exist.\nNormal weapons only go up to 24, which uses stones up to 8, which is covered by the 4th level bell bearing.\nSee also:\n\nSmithing-Stone Miner's Bell Bearing (1)\nSmithing-Stone Miner's Bell Bearing (2)\nSmithing-Stone Miner's Bell Bearing (3)\nSmithing-Stone Miner's Bell Bearing (4)\n\n
+
+QUESTION
+What is the significance of the Smithing-Stone Miner's Bell Bearing (5) not existing in relation to the level of stone usage in normal weapons?
+
+ANSWER
+The significance is that normal weapons go only up to level 24 using stones up to 8, which is fulfilled by the 4th level bell bearing.

@@ -1,0 +1,8 @@
+CONTEXT
+\nDivine Towers in Elden Ring are special areas associated to gods and demigods. You can restore one or more of the Great Runes  at each location.\n\nList of Divine Towers in Elden Ring\nHere is a full list of Divine Towers and associated Runes:\n\nDivine Tower of Limgrave - Godrick's Great Rune\nDivine Tower of Caelid - Radahn's Great Rune\nDivine Tower of Liurnia - Cursemark of Death\nDivine Tower of East Altus - Mohg's Great Rune and Morgott's Great Rune\nDivine Tower of West Altus - Rykard's Great Rune\nIsolated Divine Tower - Malenia's Great Rune\n\nMost towers can only be accessed after you have acquired the Great Rune by defeating the corresponding boss. See the page Divine Tower of Caelid for an explanation of how to get in there; the Divine Tower of Liurnia is associated to Ranni's questline.\n
+
+QUESTION
+When can the player access the Divine Tower of Liurnia?
+
+ANSWER
+The player can access the Divine Tower of Liurnia after completing Ranni's questline.

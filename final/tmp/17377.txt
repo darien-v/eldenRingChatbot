@@ -1,0 +1,8 @@
+CONTEXT
+\n\n Rebirth Monuments \n\nYou must be near a rebirth monument to summon spirits from ashes.\n\nRebirth Monuments are statues in Elden Ring that give the player the ability to summon Spirit Ashes in the area. They are represented in the world by obelisk-shaped monuments and on the HUD as a spectral archway on the left edge of the screen. \nSpirit Ashes can only be present in the area surrounding a Rebirth Monument. If you move near the edge of the rebirth area, your summons' health bars will start to flicker, and if you leave it entirely the spirits you summoned will vanish.\nNot all areas that allow Spirit Ashes to be summoned have a physical monument present, including many boss chambers. The most reliable way to tell if you can summon spirits is to look for the archway icon. In some cases, areas that allowed summoning when a boss was present will no longer allow it once the boss has been defeated.\nOther useful statues found throughout the Lands Between include Stakes of Marika and Effigies of the Martyr.\nWhere to find Rebirth Monuments in Elden Ring\nRebirth Monuments can be found all across the game, including most boss chambers, legacy dungeons, self-contained combat areas, and scattered throughout the open world.\n\n
+
+QUESTION
+How can you distinguish between areas where you can summon spirits using a Rebirth Monument and areas where you cannot?
+
+ANSWER
+Look for the spectral archway icon on the HUD in areas where you can summon spirits using a Rebirth Monument, but be cautious as not all areas that allow summoning have a physical monument present.

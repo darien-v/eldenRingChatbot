@@ -41,7 +41,7 @@ def process_context(context, file_number):
     questions = []
     answers = []
 
-    for _ in range(3):
+    for _ in range(5):
         question_type = random.choice(question_types)
         question_prompt = f"Given the following CONTEXT, generate a {question_type} question someone might ask related to the CONTEXT. Just return the question and do not add anything like Question: followed by the question. Only the question:\nCONTEXT\n{context}\n"
         if token_count(question_prompt) > 16000:
@@ -72,6 +72,6 @@ with open('../eldenRingWikiText.csv', 'r', newline='', encoding='utf-8') as file
         if len(row) > 2:
             context = row[2]
             process_context(context, file_number)
-            file_number += 3  # increment by 3 as we generate 3 sets of Q&A per context
+            file_number += 5  # increment by 5 as we generate 5 sets of Q&A per context
 
 print("Finished processing and writing to files.")

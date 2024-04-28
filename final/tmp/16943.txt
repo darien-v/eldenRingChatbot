@@ -1,0 +1,8 @@
+CONTEXT
+\nMagma Sorceries or Lava Sorceries are a group of Sorceries in Elden Ring that share a specific type of buff criteria. Magma Sorceries draw upon the power of molten lava from Mt Gelmir. There are a total of 4 Magma Sorceries available for players. Magma Sorceries can be boosted by the Gelmir Glintstone Staff\n\nAberrant\n\nCarian\n\nClaymen\n\nCold\n\nCrystalian\n\nDeath\n\nFull Moon\n\nGlintstone\n\nGravity\n\nLoretta's\n\nMagma\n\nNight\n\nPrimeval\n\nMagma Sorceries info\n\nObtaining Magma Sorceries\n\nMagma Sorceries don't have an associated Scroll to be found, nor have an associated Merchant.\nCheck their individual pages to learn about their locations.\n\nMagma Sorceries Requirements\n\nAs is the case with all Sorceries, you must have a Glintstone Staff equipped in order to be able to cast Magma Sorceries.\nMagma Sorceries require Intelligence and Faith to use.\n\nBoosting Magma Sorceries\n\nGelmir Glintstone Staff boosts all Magma Sorceries.\nAzur's Glintstone Staff reduces the casting time of all Sorceries, but increases the amount of FP consumed.\n\nAll Magma Sorceries\n\nGelmir's Fury\n\nMagma Shot\n\nRoiling Magma\n\nRykard's Rancor\n\n
+
+QUESTION
+What are the requirements for casting Magma Sorceries in Elden Ring?
+
+ANSWER
+Magma Sorceries in Elden Ring require the Glintstone Staff equipped, along with Intelligence and Faith to use.

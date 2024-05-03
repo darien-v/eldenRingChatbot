@@ -1,8 +1,0 @@
-CONTEXT
-\n\n Scriptstone \n\nEffect \n\n        Reveals more messages from other worlds \n\nScaling \n\n        - \n\nFP Cost\n2\n\nScriptstone is a Multiplayer Item in Elden Ring. Multiplayer Items allow players to interact with each other in various ways, including leaving messages for other players to read, co-operative gameplay and competitive gameplay like PVP.\n\nRuin Fragment with a cipher inscription. Craftable item.\nUses FP to reveal more messages from other worlds.\nWords are gregarious things, drawn to one another much as people are.\n\nElden Ring Scriptstone Crafting Guide\nTo craft Scriptstone, you would need the Missionary's Cookbook [2] as well as the following Crafting Materials:\n\nRuin Fragment x1\nHuman Bone Shard x1\n\nElden Ring Scriptstone Notes & Tips\n\nYou can hold up to 10 Scriptstones.\nYou can store up to 600 Scriptstones.\nSell Value:  10 Runes\nThe effect lasts 2 minutes\n\nElden Ring Multiplayer Items\n\nBloody Finger  ♦  Blue Cipher Ring  ♦  Duelist's Furled Finger  ♦  Festering Bloody Finger  ♦  Finger Severer  ♦  Furlcalling Finger Remedy  ♦  Grace Mimic  ♦  Phantom Bloody Finger  ♦  Recusant Finger  ♦  Small Golden Effigy  ♦  Small Red Effigy  ♦  Tarnished's Furled Finger  ♦  Tarnished's Wizened Finger  ♦  Taunter's Tongue  ♦  White Cipher Ring\n\n
-
-QUESTION
-How can players effectively utilize Scriptstone in Elden Ring to interact with other players and enhance their multiplayer experience?
-
-ANSWER
-By using Scriptstone in Elden Ring, players can reveal more messages from other worlds in multiplayer, allowing interaction and enhancing their multiplayer experience.

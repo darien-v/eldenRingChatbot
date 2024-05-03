@@ -1,8 +1,0 @@
-CONTEXT
-\n\n Magic Damage Negation \n\nType\nEquipment Stat\n\nEffect\nShows the amount of incoming Magic Damage that is negated\n\nMagic Damage Negation is an Equipment Stat in Elden Ring. Magic Damage Negation shows the degree to which incoming Magic damage is negated. Equipment Stats are determined by your Equipment.\n\nMagic Damage Negation Elden Ring Guide\n\nMagic Damage Negation shows the degree to which incoming Magic damage is negated.\n\nHow to increase in Elden Ring Magic Damage Negation\n\nYour Magic Damage Negation can be increased by Information goes here\n\nElden Ring Magic Damage Negation Notes & Tips\n\nNotes & Tips go here.\n\nStats in Elden Ring\n\nArcane  ♦  Dexterity  ♦  Discovery  ♦  Endurance  ♦  Equip Load  ♦  Faith  ♦  Fire Damage Negation  ♦  Fire Defense  ♦  Focus  ♦  Focus Resistance  ♦  FP  ♦  Holy Damage Negation  ♦  Holy Defense  ♦  HP  ♦  Immunity  ♦  Immunity Resistance  ♦  Intelligence  ♦  Level  ♦  Lightning Damage Negation  ♦  Lightning Defense  ♦  Magic Defense  ♦  Memory Slots  ♦  Mind  ♦  Physical Defense  ♦  Poise  ♦  Robustness  ♦  Robustness Resistance  ♦  Runes Held  ♦  Stamina  ♦  Strength  ♦  Vigor  ♦  Vitality  ♦  VS Pierce Damage Negation  ♦  VS Pierce Defense  ♦  VS Slash Damage Negation  ♦  VS Slash Defense  ♦  VS Strike Damage Negation  ♦  VS Strike Defense  ♦  Weight\n\n
-
-QUESTION
-Why is Magic Damage Negation considered an important Equipment Stat in Elden Ring?
-
-ANSWER
-Magic Damage Negation is important in Elden Ring as it determines the degree to which incoming Magic damage is negated.

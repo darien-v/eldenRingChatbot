@@ -1,8 +1,0 @@
-CONTEXT
-\n\n Stakes of Marika \n\n The stakes honor Queen Marika the Eternal, ruler of the Lands Between. \n\nStakes of Marika are statues usually found in locations where many enemies are present or just before boss doors. They serve as respawn points.\nOther useful statues found throughout the Lands Between include Effigies of the Martyr and Rebirth Monuments.\nStakes of Marika Use\nIf you die in the range of a Stake of Marika, you can choose to respawn next to it instead of at your last Site of Grace. If you're in range of a Stake of Marika, you'll see an icon () beneath your Stamina bar.\n\n
-
-QUESTION
-Why are Stakes of Marika usually placed in locations with many enemies or just before boss doors in the game?
-
-ANSWER
-Stakes of Marika serve as respawn points in the game, providing players the option to respawn next to them instead of at their last Site of Grace when they die.

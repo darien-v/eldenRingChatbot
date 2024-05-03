@@ -1,8 +1,0 @@
-CONTEXT
-\n\n Lightning Damage Negation \n\nType\nEquipment Stat\n\nEffect\nShows the amount of incoming Lightning Damage that is negated\n\nLightning Damage Negation is an Equipment Stat in Elden Ring. Lightning Damage Negation shows the degree to which incoming lightning damage is negated. Equipment Stats are determined by your Equipment.\n\nLightning Damage Negation Elden Ring Guide\n\nThe degree to which incoming lightning damage is negated.\n\nHow to increase in Elden Ring Lightning Damage Negation\n\nYour Lightning Damage Negation can be increased by Information goes here\n\nElden Ring Lightning Damage Negation Notes & Tips\n\nNotes & Tips go here.\n\nStats in Elden Ring\n\nArcane  ♦  Dexterity  ♦  Discovery  ♦  Endurance  ♦  Equip Load  ♦  Faith  ♦  Fire Damage Negation  ♦  Fire Defense  ♦  Focus  ♦  Focus Resistance  ♦  FP  ♦  Holy Damage Negation  ♦  Holy Defense  ♦  HP  ♦  Immunity  ♦  Immunity Resistance  ♦  Intelligence  ♦  Level  ♦  Lightning Defense  ♦  Magic Damage Negation  ♦  Magic Defense  ♦  Memory Slots  ♦  Mind  ♦  Physical Defense  ♦  Poise  ♦  Robustness  ♦  Robustness Resistance  ♦  Runes Held  ♦  Stamina  ♦  Strength  ♦  Vigor  ♦  Vitality  ♦  VS Pierce Damage Negation  ♦  VS Pierce Defense  ♦  VS Slash Damage Negation  ♦  VS Slash Defense  ♦  VS Strike Damage Negation  ♦  VS Strike Defense  ♦  Weight\n\n
-
-QUESTION
-What is the significance of Lightning Damage Negation in Elden Ring?
-
-ANSWER
-Lightning Damage Negation in Elden Ring shows the degree to which incoming lightning damage is negated.

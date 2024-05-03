@@ -1,8 +1,0 @@
-CONTEXT
-\n\n Champion \n\nLevel\n5\nDexterity\n8\n\nVigor\n13\nIntelligence\n5\n\nMind\n9\nFaith\n15\n\nEndurance\n12\nArcane\n11\n\nStrength\n14\n\nChampion was a starting Class in the Elden Ring Closed Network Test. This class is not available in the final version of the game. See Hero instead.\n\nEquipped with a Sacred Seal and an Axe, the Champion can burn foes from a distance or take them head on in melee combat. They are ferocious fighters, who do not fear death.\n\nChampion Starting Equipment for Elden Ring\nThis class started with the following equipment:\n\nBattle Axe\nFinger Seal\nRed Thorn Roundshield\nChampion Headband\nChampion Pauldron\nChampion Gauntlets\nBadland Gaiters\nDragonfire\n\nStarting items for Champion in Elden Ring\nThis class started with the following items:\n\n2 Flask of Crimson Tears\n2 Flask of Cerulean Tears\n\nChampion Builds in Elden Ring\n\nElden Ring Champion Notes & Tips\n\nHeroes were one of two Classes that began the in the network test with Sacred Seals (Prophet being the other). This allowed them to cast Incantations, which can be both offensive or defensive. They are also the only Class that started with Dragonfire.\n\nElden Ring Network Test Classes\n\nBloody Wolf  ♦  Enchanted Knight  ♦  Prophet  ♦  Warrior\n\n
-
-QUESTION
-Why was the Champion class not included in the final version of the game despite its strong starting equipment and unique abilities?
-
-ANSWER
-The Champion class was not included in the final version of the game due to its overlap with the Hero class, which shared the same starting equipment and offered similar abilities.

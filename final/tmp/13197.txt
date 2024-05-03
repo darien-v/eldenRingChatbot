@@ -1,8 +1,0 @@
-CONTEXT
-\n\n Bloody Wolf \n\nLevel\n5\nDexterity\n12\n\nVigor\n14\nIntelligence\n7\n\nMind\n11\nFaith\n9\n\nEndurance\n12\nArcane\n6\n\nStrength\n16\n\nBloody Wolf was one of the 5 starting Classes in the Elden Ring Closed Network Test, it is not present in the full game. The armor set worn by this class appears in the final game as the Raging Wolf Set.\n\nThe Wolf is cunning, steadfast and deadly. These warriors have no fear and face down death with unmatched vigor and pride.\n\nBloody Wolf Starting Equipment\nThis class started with the following equipment:\n\nBastard Sword\nIron Roundshield\nBloody Wolf Helm\nBloody Wolf Armor\nBloody Wolf Gauntlets\nBloody Wolf Greaves\n\nStarting items for Bloody Wolf\nThis class started with the following items:\n\n2 Flask of Crimson Tears\n2 Flask of Cerulean Tears\n\nBloody Wolf Builds in Elden Ring\n\nElden Ring Bloody Wolf Notes & Tips\n\nHigh Strength allowed the Bloody Wolf to use a Greatsword and Heavy Armor and still have medium Equip Load.\nThe Crucible Armor Set, which was also available during the Closed Network Test, was a nice upgrade for the Bloody Wolf, providing more protection than the Bloody Wolf Set.\n\nElden Ring Network Test Classes\n\nChampion  ♦  Enchanted Knight  ♦  Prophet  ♦  Warrior\n\n
-
-QUESTION
-What equipment and items did the starting class Bloody Wolf have in the Elden Ring Closed Network Test?
-
-ANSWER
-Bastard Sword, Iron Roundshield, Bloody Wolf Helm, Bloody Wolf Armor, Bloody Wolf Gauntlets, Bloody Wolf Greaves, 2 Flask of Crimson Tears, 2 Flask of Cerulean Tears
